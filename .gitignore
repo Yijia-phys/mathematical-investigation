@@ -1,0 +1,6 @@
+# Only track LaTeX sources, PDFs, and this ignore file.
+*
+!*/
+!*.tex
+!*.pdf
+!.gitignore
